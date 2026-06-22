@@ -1,3 +1,2 @@
 # mks
-first git
-author -mehul
+first git author -mehul ks
